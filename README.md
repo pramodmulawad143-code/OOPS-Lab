@@ -8,6 +8,25 @@ The main objective of this repository is to understand programming concepts thro
 
 ---
 
+## 👨‍🎓 Student Details
+
+| Field | Details |
+|---|---|
+| **Name** | Pramod Mulawad |
+| **USN** | 01FE23BEC101 |
+| **Roll Number** | 312 |
+| **Branch** | Electronics and Communication Engineering (ECE) |
+| **Division** |c |
+| **Semester** | 7th |
+| **University** | KLE Technological University |
+| **Subject** | Object-Oriented Programming (OOPS) Lab |
+| **Programming Language** | C++ |
+
+---
+
+
+
+
 ## 📚 Table of Contents
 
 - [Overview](#-overview)
