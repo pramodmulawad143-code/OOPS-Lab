@@ -1,0 +1,28 @@
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 10;
+    float b = 12.5f;
+    double c = 25.75;
+    char d = 'A';
+    bool e = true;
+
+    cout << "Integer value: " << a << endl;
+    cout << "Size of int: " << sizeof(a) << " bytes" << endl;
+
+    cout << "Float value: " << b << endl;
+    cout << "Size of float: " << sizeof(b) << " bytes" << endl;
+
+    cout << "Double value: " << c << endl;
+    cout << "Size of double: " << sizeof(c) << " bytes" << endl;
+
+    cout << "Character value: " << d << endl;
+    cout << "Size of char: " << sizeof(d) << " byte" << endl;
+
+    cout << "Boolean value: " << boolalpha << e << endl;
+    cout << "Size of bool: " << sizeof(e) << " byte" << endl;
+
+    return 0;
+}
